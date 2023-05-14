@@ -4,8 +4,7 @@ _I will teach your children to multiply._
 Multiplication Table Test project from [100 Days of SwiftUI](https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge) course.
 
 What I learned
-* This
-* That
+* Learned the skills of layout, typography, color theory, graphic design, random number generation, algorithm design, skills in Core Animation, UIKit, and SwiftUI animation APIs and skills in testing frameworks and methodologies, such as XCTest and TDD.
 
 Built using
 * Xcode v13.
