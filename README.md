@@ -1,7 +1,7 @@
 # Multiplication-Table-Test
 _I will teach your children to multiply._
 
-Multiplication Table Test project from [100 Days of SwiftUI]([https://hackingwithswift.com](https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge)) course.
+Multiplication Table Test project from [100 Days of SwiftUI]([https://www.hackingwithswift.com/guide/ios-swiftui/3/3/challenge]) course.
 
 What I learned
 * This
